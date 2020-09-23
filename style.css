@@ -1,0 +1,37 @@
+
+body {
+  color: #ffff;
+  font-family: serif;
+  background-color: #ffa500;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+p {
+  color: #ffff
+}
+h1 {
+  padding-top: 25px;
+  padding-left: 50px;
+}
+.mainContainer {
+  width: 839px;
+  height: 471px;
+  background-image:url(travis_scott_rl.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+}
+.paragraphs{
+  width: 40%;
+  padding-left: 50px;
+}
+.albums{
+  width: 839px;
+  padding-left: 10%;
+}
+.albumart{
+  height: 220px;
+  width: 220px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
